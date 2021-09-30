@@ -21,6 +21,6 @@ I started a new challenge. This challenge consists of tasks given to you for 100
 
 #### NOTE: 
 
-*Programs I use for gifs: Picsart & cloudconvert.com*
+*Programs I use for gif: Picsart & cloudconvert.com*
 
 
