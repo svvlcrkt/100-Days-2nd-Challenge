@@ -16,7 +16,7 @@ I started a new challenge. This challenge consists of tasks given to you for 100
 
 ### *PROJECT VİEW:*
 
-https://user-images.githubusercontent.com/63058707/135490992-6cf5d0d4-fbcb-4655-8ea9-4672bf094ba9.mp4
+![menu-example](https://user-images.githubusercontent.com/63058707/135491467-3d1221ca-ef53-40dd-9a2f-38783982332b.gif)
 
 
 
